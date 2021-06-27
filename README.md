@@ -14,7 +14,7 @@ The data from the analysis:
 
 ![AllStocks2018](https://user-images.githubusercontent.com/85590155/123531332-e93bb000-d6c0-11eb-9087-a313150585df.PNG)
 
-The stock performance of these 12 companies were stronger in 2017 than 2018.  Further investigation is needed to determine if this industry is an attractive investment option.  For instance, do these stocks track the performance of the broader market, or were there macro trends within the industry that led to this decline in performance.  However, we can see that both "ENPH" and "RUN"U delivered strong returns for 2018.  Also, both were actively traded which gives confidence that the price accurately reflects the value of the company.  
+The stock performance of these 12 companies were stronger in 2017 than 2018.  Further investigation is needed to determine if this industry is an attractive investment option.  For instance, do these stocks track the performance of the broader market, or were there macro trends within the industry that led to this decline in performance.  However, we can see that both "ENPH" and "RUN" delivered strong returns for 2018.  Also, both were actively traded which gives confidence that the price accurately reflects the value of the company.  
 
 ## Analysis
 
