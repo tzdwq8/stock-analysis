@@ -18,7 +18,7 @@ The stock performance of these 12 companies were stronger in 2017 than 2018.  Fu
 
 ## Analysis
 
-Since the next step is to perform an analysis of the entire market, the VBA code the supports the macro was refracted in order to reduce the processing time.  The original code was:
+Since the next step is to perform an analysis of the entire market, the VBA code that supports the macro was refracted in order to reduce the processing time.  The original code was:
 
 ![Original Code](https://user-images.githubusercontent.com/85590155/123531667-c3fc7100-d6c3-11eb-85a1-48f2d919cb99.PNG)
 
