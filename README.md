@@ -22,9 +22,13 @@ Since the next step is to perform an analysis of the entire market, the VBA code
 
 ![Original Code](https://user-images.githubusercontent.com/85590155/123531667-c3fc7100-d6c3-11eb-85a1-48f2d919cb99.PNG)
 
+-----
+
 This code looped through the entire data set for each of the tickers.  The VBA code was refracted to:
 
 ![Refracted Code](https://user-images.githubusercontent.com/85590155/123531695-00c86800-d6c4-11eb-8e58-8a72b017f49a.PNG)
+
+-----
 
 This code only loops through the data once.  As we can see, this dramatically decreases processing time:
 
