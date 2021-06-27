@@ -1,4 +1,4 @@
-# Analysis of Green Stocks Utilizing Excel Macros
+# Analysis of Green Energy Stocks Utilizing Excel Macros
 
 Analyzed 12 green stocks, utilizing 2017 and 2018 data, in order to understand trading activity and yearly returns.
 
@@ -14,7 +14,7 @@ The data from the analysis:
 
 ![AllStocks2018](https://user-images.githubusercontent.com/85590155/123531332-e93bb000-d6c0-11eb-9087-a313150585df.PNG)
 
-The stock performance of these 12 companies were stronger in 2017 than 2018.  Further investigation is needed to determine if this industry is an attractive investment option.  For instance, do these stocks track the performance of the broader market, or were there macro trends within the industry that led to this decline in performance.  However, we can see the both "ENPH" and "RUN" both delivered strong returns for 2018.  Also, both were actively traded which gives confidence that the price accurately reflects the value of the company.  
+The stock performance of these 12 companies were stronger in 2017 than 2018.  Further investigation is needed to determine if this industry is an attractive investment option.  For instance, do these stocks track the performance of the broader market, or were there macro trends within the industry that led to this decline in performance.  However, we can see that both "ENPH" and "RUN"U delivered strong returns for 2018.  Also, both were actively traded which gives confidence that the price accurately reflects the value of the company.  
 
 ## Analysis
 
@@ -54,4 +54,4 @@ In both cases, it is over 70% increase in performance.  While the time savings i
 
 ## Summary
 
-While the initial analysis provides useful information, more detailed analysis is necessary.  The output of this project provides a macro which will automate that analysis.  Work was performed to streamline the VBA code in order to achieve optimal performance.  The time savings when dealing with large data sets can be substantial.  But refactoring does have it's drawbacks.  The time spent refactoring might not be worth the gain depending on how the code will be utilized.  Also, if other people will be working with the code, the simplest solution might be the better path rather than the optimal solution.  But in this case, considering more analysis on the broader market will occur, we are confident in the refracted macro is the appropriate solution.
+While the initial analysis provides useful information, more detailed analysis is necessary.  The output of this project provides a macro which will automate that analysis.  Work was performed to streamline the VBA code in order to achieve optimal performance.  The time savings when dealing with large data sets can be substantial.  But refactoring does have it's drawbacks.  The time spent refactoring might not be worth the gain depending on how the code will be utilized.  Also, if other people will be working with the code, the simplest solution might be the better path rather than the optimal solution.  But in this case, considering more analysis on the broader market will occur, we are confident that the refracted macro is the appropriate solution.
