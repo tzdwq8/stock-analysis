@@ -4,7 +4,7 @@ Analyzed 12 green stocks, utilizing 2017 and 2018 data, in order to understand t
 
 ## Purpose
 
-This project was intended to provide insight on appropriate green stocks in which to invest.  This project was conducted utilizing excel, and creating a macro in order to automate the analysis.  The initial analysis centered around the stock "DAQO" to determine the total daily volume and return during 2018.  This was performed utilizing the ticker symbol, date, daily closing price, and daily volume.  The  analysis was expanded to include 11 other green stock over 2017 and 2018.  Finally, the macro was refracted in order to run more efficiently to expand the dataset to include the entire stock market over the last few years.
+This project was intended to provide insight on appropriate green stocks in which to invest.  This project was conducted utilizing excel, and creating a macro in order to automate the analysis.  The initial analysis centered around the stock "DAQO" to determine the total daily volume and return during 2018.  This was performed utilizing the ticker symbol, date, daily closing price, and daily volume.  The  analysis was expanded to include 11 other green stock over 2017 and 2018.  Finally, the macro was refactored in order to run more efficiently to expand the dataset to include the entire stock market over the last few years.
 
 ## Results
 
@@ -18,13 +18,13 @@ The stock performance of these 12 companies were stronger in 2017 than 2018.  Fu
 
 ## Analysis
 
-Since the next step is to perform an analysis of the entire market, the VBA code that supports the macro was refracted in order to reduce the processing time.  The original code was:
+Since the next step is to perform an analysis of the entire market, the VBA code that supports the macro was refactored in order to reduce the processing time.  The original code was:
 
 ![Original Code](https://user-images.githubusercontent.com/85590155/123531667-c3fc7100-d6c3-11eb-85a1-48f2d919cb99.PNG)
 
 -----
 
-This code looped through the entire data set for each of the tickers.  The VBA code was refracted to:
+This code looped through the entire data set for each of the tickers.  The VBA code was refactored to:
 
 ![Refracted Code](https://user-images.githubusercontent.com/85590155/123531695-00c86800-d6c4-11eb-8e58-8a72b017f49a.PNG)
 
@@ -38,7 +38,7 @@ This code only loops through the data once.  As we can see, this dramatically de
 
 ------
 
-2017 Refracted Code
+2017 Refactored Code
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/85590155/123531761-72081b00-d6c4-11eb-9bff-c9c145b7fecc.PNG)
 
@@ -50,7 +50,7 @@ This code only loops through the data once.  As we can see, this dramatically de
 
 -----
 
-2018 Refracted Code
+2018 Refactored Code
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/85590155/123531769-877d4500-d6c4-11eb-9bd6-4131a900ac25.PNG)
 
